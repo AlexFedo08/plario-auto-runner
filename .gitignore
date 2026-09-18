@@ -1,0 +1,8 @@
+token.txt
+data/diagnostic.json
+data/send_progress.json
+data/send_log.txt
+data/trainer_log.txt
+__pycache__/
+*.pyc
+.DS_Store
